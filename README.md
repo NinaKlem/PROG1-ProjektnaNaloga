@@ -5,7 +5,18 @@
 Nina Klemenčič
 
 ### 1. UVOD
-V projektu analiziram podatke o emisijah snovi v zrak iz naprav za leta 2001-2018, ki so objavljeni na spletni strani Agencije Republike Slovenije za okolje (ARSO) (Sektor za kakovost zraka na Uradu za varstvo okolja in narave). 
+V projektu analiziram podatke o emisijah snovi v zrak iz naprav za leta 2002-2018, ki so objavljeni na spletni strani Agencije Republike Slovenije za okolje (ARSO) (Sektor za kakovost zraka na Uradu za varstvo okolja in narave). 
+
+(i)   Leto poročanja  
+(ii)  Naziv zavezanca  
+(iii) Poštna številka  
+(iv)  Občina zavezanca  
+(v)   Onesnaževalo:  
+  - splošna onesnaževala: žveplovi oksidi (SOx), dušikovi oksidi (NOx), nemetanske hlapne organske spojine (NMVOC), amonijak (NH_3), ogljikov monoksid (CO)  
+  - delci: PM2.5 (*particulate matter < 2.5 um*), PM10 (*particulate matter < 10 um*), skupni prašni delci (TSP, *total soot particle*), črni ogljik (BC, *black carbon*)  
+  - težke kovine: Pb, Cd, Hg, As, Cr, Cu, Ni, Se, Zn  
+  - obstojna organska onesnaževala (POP, *persisent organic pollutants*): policiklični aromatski ogljikovodiki (PAH, *polycyclic aromatic hydrocarbons*),  
+  dioksini/furani (PCDD/PCDF), poloklorirani bifenili (PCB, *polychlorinated biphenyls*), heksaklorobenzen (HCB, *hexachlorobenzene*)  
 
 Uporabljam programska jezika Python3.9.0 in Ocaml o okolju Anaconda.
 
