@@ -7,6 +7,7 @@ Nina Klemenčič
 ### 1. UVOD
 V projektu analiziram podatke o emisijah snovi v zrak iz naprav za leta 2002-2018, ki so objavljeni na spletni strani Agencije Republike Slovenije za okolje (ARSO) (Sektor za kakovost zraka na Uradu za varstvo okolja in narave). 
 
+V tabelah so tile podatki:  
 (i)     Leto poročanja  
 (ii)    Zavezanec  
 (iii)   Naslov zavezanca  
