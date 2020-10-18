@@ -23,7 +23,7 @@ V tabelah so tile podatki:
 (viii)  Emisije iz izpustov (kg)  
 (ix)    Ocena razpršene emisije (kg)  
 
-Uporabljam programska jezika Python3.9.0 in Ocaml o okolju Anaconda.
+Uporabljam programska jezika Python in Ocaml o okolju Anaconda.
 
 ### DELOVNE HIPOTEZE
 
