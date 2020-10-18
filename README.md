@@ -5,7 +5,7 @@
 Nina Klemenčič
 
 ### 1. UVOD
-V projektu analiziram podatke o emisijah snovi v zrak iz naprav za leta 2001-2018, ki so objavljeni na spletnih straneh Agencije Republike Slovenije za okolje (ARSO). 
+V projektu analiziram podatke o emisijah snovi v zrak iz naprav za leta 2001-2018, ki so objavljeni na spletni strani Agencije Republike Slovenije za okolje (ARSO) (Sektor za kakovost zraka na Uradu za varstvo okolja in narave). 
 
 Uporabljam programska jezika Python3.9.0 in Ocaml o okolju Anaconda.
 
@@ -14,4 +14,4 @@ Uporabljam programska jezika Python3.9.0 in Ocaml o okolju Anaconda.
 ### POVEZAVE  
 (i)   projekt: https://github.com/NinaKlem/ULFMF_Programiranje-1/projects/1  
 (ii)  ARSO - zrak: http://www.arso.gov.si/zrak/  
-(iii) Anaconda:https://docs.anaconda.com/anaconda/
+(iii) Anaconda: https://docs.anaconda.com/anaconda/
