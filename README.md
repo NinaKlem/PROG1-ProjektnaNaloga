@@ -25,7 +25,11 @@ Ocena razpršene emisije (kg)
 
 Uporabljam programska jezika Python in Ocaml v okolju [Anaconda](https://docs.anaconda.com/anaconda/).
 
-### DELOVNE HIPOTEZE
+### VPRAŠANJA IN DELOVNE HIPOTEZE
+
+Spreminjanje vrste onesnaževala in emisij pri posameznem zavezancu v letih 2002-2018.
+Spreminjanje skupnih emisij posameznega onesnaževala.
+Primerjava ocene o emisijah snovi v zrak in razpršenih emisijah s podatki iz drugih virov.
 
 ### POVEZAVE  
 1. projekt: https://github.com/NinaKlem/ULFMF_Programiranje-1/projects/1  
