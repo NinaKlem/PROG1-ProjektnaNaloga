@@ -30,6 +30,6 @@ Spreminjanje skupnih emisij vrste onesnaževal ter posameznega onesnaževala.
 Primerjava ocene o emisijah snovi v zrak in razpršenih emisijah s podatki iz drugih virov.
 
 ### POVEZAVE  
-1. projekt: https://github.com/NinaKlem/ULFMF_Programiranje-1/projects/1  
+1. Ideje za projekte: https://github.com/NinaKlem/ULFMF_Programiranje-1/projects/1  
 2. ARSO - zrak: http://www.arso.gov.si/zrak/  
 3. Anaconda: https://docs.anaconda.com/anaconda/
