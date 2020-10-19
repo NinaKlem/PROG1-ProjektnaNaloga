@@ -1,5 +1,3 @@
-# ULFMF_Programiranje-1
-
 ## Projektno delo pri predmetu Programiranje 1 (zimski semester 2020/2021) 
 
 Nina Klemenčič
@@ -28,7 +26,7 @@ Uporabljam programska jezika Python in Ocaml v okolju [Anaconda](https://docs.an
 ### VPRAŠANJA IN DELOVNE HIPOTEZE
 
 Spreminjanje vrste onesnaževala in emisij pri posameznem zavezancu v letih 2002-2018.
-Spreminjanje skupnih emisij posameznega onesnaževala.
+Spreminjanje skupnih emisij vrste onesnaževal ter posameznega onesnaževala.
 Primerjava ocene o emisijah snovi v zrak in razpršenih emisijah s podatki iz drugih virov.
 
 ### POVEZAVE  
