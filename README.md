@@ -27,9 +27,11 @@ Uporabljam programska jezika Python in Ocaml v okolju [Anaconda](https://docs.an
 
 Spreminjanje vrste onesnaževala in emisij pri posameznem zavezancu v letih 2002-2018.
 Spreminjanje skupnih emisij vrste onesnaževal ter posameznega onesnaževala.
-Primerjava ocene o emisijah snovi v zrak in razpršenih emisijah s podatki iz drugih virov.
+Primerjava ocene o emisijah snovi v zrak in razpršenih emisijah s [podatki o kakovosti zraka](http://www.arso.gov.si/zrak/kakovost%20zraka/podatki/) (meritve koncentracij SO2, NO2, CO, ozona, PM10)
+Kdo so zavezanci, koliko jih je
 
 ### POVEZAVE  
 1. Ideje za projekte: https://github.com/NinaKlem/ULFMF_Programiranje-1/projects/1  
-2. ARSO - zrak: http://www.arso.gov.si/zrak/  
+2. ARSO - zrak: http://www.arso.gov.si/zrak/ 
+2.1 ARSO - kakovost zraka: http://www.arso.gov.si/zrak/kakovost%20zraka/podatki/
 3. Anaconda: https://docs.anaconda.com/anaconda/
