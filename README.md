@@ -21,13 +21,13 @@ Onesnaževalo:
 Emisije iz izpustov (kg)  
 Ocena razpršene emisije (kg)  
 
-Uporabljam programska jezika Python in Ocaml v okolju [Anaconda](https://docs.anaconda.com/anaconda/).
+Uporabljam programska jezika Python ([integrirano razvijalsko okolje Spyder](https://www.spyder-ide.org/)) in Ocaml.
 
 ### VPRAŠANJA IN DELOVNE HIPOTEZE
 
 Spreminjanje vrste onesnaževala in emisij pri posameznem zavezancu v letih 2002-2018.
 Spreminjanje skupnih emisij vrste onesnaževal ter posameznega onesnaževala.
-Primerjava ocene o emisijah snovi v zrak in razpršenih emisijah s [podatki o kakovosti zraka](http://www.arso.gov.si/zrak/kakovost%20zraka/podatki/) (meritve koncentracij SO2, NO2, CO, ozona, PM10)
+Primerjava ocene o emisijah snovi v zrak in razpršenih emisijah s [podatki o kakovosti zraka](http://www.arso.gov.si/zrak/kakovost%20zraka/podatki/) (meritve koncentracij SO2, NO2, CO, ozona, PM10). 
 Kdo so zavezanci, koliko jih je
 
 ### POVEZAVE  
