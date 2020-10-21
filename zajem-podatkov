@@ -4,7 +4,32 @@ from bs4 import BeautifulSoup
 import os
 import csv
 
+
 arso_naprave_url = 'https://okolje.arso.gov.so/onesnazevanje_zraka/devices'
 arso_naprave_dir = os.path.abspath('...')
 
+
 def loadPage(url):
+    response = requests.get(url)
+    return response.text
+
+def saveHTML():
+    soup = BeautifulSoup(html_str)
+    
+    
+def getLinks(html_str):
+    soup = BeautifulSoup(html_str)
+    
+    links = []
+    for link in soup.findAll('a', attrs={'href': re.compile('EmisijeZrak20\d\d')}):
+        links.append(link.get('href'))
+
+    return links
+    
+    
+    
+def main():
+    infile = loadPage(url)
+    links = getLinks(infile)
+    
+
