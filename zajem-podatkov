@@ -1,0 +1,10 @@
+import re
+import requests
+from bs4 import BeautifulSoup
+import os
+import csv
+
+arso_naprave_url = 'https://okolje.arso.gov.so/onesnazevanje_zraka/devices'
+arso_naprave_dir = os.path.abspath('...')
+
+def loadPage(url):
