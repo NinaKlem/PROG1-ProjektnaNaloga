@@ -11,17 +11,25 @@ arso_naprave_dir = os.path.abspath('...')
 
 def loadPage(url):  
     response = requests.get(url)  
-    return response.text  
+    return response.text, response.encoding  
 
-def saveHTML():  
-    soup = BeautifulSoup(html_str)  
+def saveHTML(infile = loadPage(url)[0], outfile, directory, encoding = loadPage(url)[1]):  
+    """
+    infile: response.text oz. loadPage(url)[0] 
+    outfile: ime datoteke, v katero se shrani 
+    directory: absolutna pot do mape, v kateri bo shranjena datoteka <outfile>
+    encoding: response.encoding oz. loadPage(url)[1]
+    
+    html_file: funkcija vrne html 
+    """
+    with open(os.path.join(directory, 'outfile.html'), 'w', encoding = encoding) as outile:
+        outfile.write(infile)
+    return html_file  
     
     
-def getLinks(html_str):  
-    soup = BeautifulSoup(html_str)  
-    
+def getLinks(html):  
     links = []  
-    for link in soup.findAll('a', attrs={'href': re.compile('EmisijeZrak20\d\d')}):  
+    for link in html.findAll('a', attrs={'href': re.compile('EmisijeZrak20\d\d')}):  
         links.append(link.get('href'))  
 
     return links  
@@ -29,7 +37,10 @@ def getLinks(html_str):
     
     
 def main():  
-    infile = loadPage(url)  
-    links = getLinks(infile)  
+    page = loadPage(arso_naprave_url)  
+    html = saveHTML(encoding = page[1])
+    
+    soup = BeautifulSoup(html)
+    links = getLinks(soup)  
     
 
