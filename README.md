@@ -1,6 +1,3 @@
-var md = require('markdown-it')()
-            .use(require('markdown-it-sub'));
-
 ## Projektno delo pri predmetu Programiranje 1 (zimski semester 2020/2021) 
 
 Nina Klemenčič
@@ -16,7 +13,7 @@ Poštna številka
 Pošta  
 Občina  
 Onesnaževalo:  
-  - splošna onesnaževala: žveplovi oksidi (SOx), dušikovi oksidi (NOx), nemetanske hlapne organske spojine (NMVOC), amonijak (md.render('NH~3')), ogljikov monoksid (CO)  
+  - splošna onesnaževala: žveplovi oksidi (SOx), dušikovi oksidi (NOx), nemetanske hlapne organske spojine (NMVOC), amonijak (NH3), ogljikov monoksid (CO)  
   - delci: PM2.5 (*particulate matter < 2.5 um*), PM10 (*particulate matter < 10 um*), skupni prašni delci (TSP, *total soot particle*), črni ogljik (BC, *black carbon*)  
   - težke kovine: Pb, Cd, Hg, As, Cr, Cu, Ni, Se, Zn  
   - obstojna organska onesnaževala (POP, *persisent organic pollutants*), policiklični aromatski ogljikovodiki (PAH, *polycyclic aromatic hydrocarbons*), dioksini/furani (PCDD/PCDF), poliklorirani bifenili (PCB, *polychlorinated biphenyls*), heksaklorobenzen (HCB, *hexachlorobenzene*)  
