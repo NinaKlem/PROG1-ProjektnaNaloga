@@ -9,9 +9,9 @@ V tabelah so tile podatki:
 Leto poročanja  
 Zavezanec  
 Naslov zavezanca  
-Poštna številka  
-Pošta  
-Občina  
+Poštna številka  |
+Pošta            | zavezanca ali obrata
+Občina           |
 Onesnaževalo:  
   - splošna onesnaževala: žveplovi oksidi (SOx), dušikovi oksidi (NOx), nemetanske hlapne organske spojine (NMVOC), amonijak (NH3), ogljikov monoksid (CO)  
   - delci: PM2.5 (*particulate matter < 2.5 um*), PM10 (*particulate matter < 10 um*), skupni prašni delci (TSP, *total soot particle*), črni ogljik (BC, *black carbon*)  
@@ -21,14 +21,16 @@ Onesnaževalo:
 Emisije iz izpustov (kg)  
 Ocena razpršene emisije (kg)  
 
-Uporabljam programska jezika Python ([integrirano razvijalsko okolje Spyder](https://www.spyder-ide.org/)) in Ocaml.
+Uporabljam programski jezik Python ([integrirano razvijalsko okolje Spyder](https://www.spyder-ide.org/)).
+
 
 ### VPRAŠANJA IN DELOVNE HIPOTEZE
 
-Spreminjanje vrste onesnaževala in emisij pri posameznem zavezancu v letih 2002-2018.
+Spreminjanje števila zavezancev
+Spreminjanje vrst onesnaževal in emisij pri posameznem zavezancu v letih 2002-2018.
 Spreminjanje skupnih emisij vrste onesnaževal ter posameznega onesnaževala.
 Primerjava ocene o emisijah snovi v zrak in razpršenih emisijah s [podatki o kakovosti zraka](http://www.arso.gov.si/zrak/kakovost%20zraka/podatki/) (meritve koncentracij SO2, NO2, CO, ozona, PM10). 
-Kdo so zavezanci, koliko jih je
+
 
 ### POVEZAVE  
 1. Ideje za projekte: https://github.com/NinaKlem/ULFMF_Programiranje-1/projects/1  
